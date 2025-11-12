@@ -1,0 +1,9 @@
+.sentinel
+crashes
+logs
+plugin_config
+plugin_manager
+profiler_data
+updates
+
+*.bak
